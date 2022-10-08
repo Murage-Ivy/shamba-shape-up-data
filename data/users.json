@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com",
+      "telephone": "0718789056",
+      "password": "1256890",
+      "isLogged": false
+    },
+    {
+      "first_name": "Ivy",
+      "last_name": "Murage",
+      "email": "ivy.murage@student.moringaschool.com",
+      "telephone": "0712345678",
+      "password": "34567",
+      "id": 2,
+      "isLogged": true
+    },
+    {
+      "first_name": "Elsy",
+      "last_name": "Kimani",
+      "email": "elsykimani@gmail.com",
+      "telephone": "0712345678",
+      "password": "123456",
+      "isLogged": true,
+      "id": 3
+    },
+    {
+      "first_name": "Kamau",
+      "last_name": "Njinji",
+      "email": "kamau@gmail.com",
+      "telephone": "0712345678",
+      "password": "12363328",
+      "isLogged": true,
+      "id": 4
+    },
+    {
+      "first_name": "Ivy",
+      "last_name": "Kimani",
+      "email": "ivymurage@gmail.com",
+      "telephone": "0712345678",
+      "password": "35467",
+      "isLogged": false,
+      "id": 5
+    }
+  ]
+  
