@@ -1,0 +1,23 @@
+{
+  "name": "shamba-data",
+  "version": "1.0.0",
+  "description": "simple database to host  data from farmers app",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murage-Ivy/shamba-shape-up-data.git"
+  },
+  "keywords": [
+    "json-server",
+    "heroku"
+  ],
+  "author": "Ivy Murage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Murage-Ivy/shamba-shape-up-data/issues"
+  },
+  "homepage": "https://github.com/Murage-Ivy/shamba-shape-up-data#readme"
+}
